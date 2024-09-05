@@ -32,14 +32,3 @@ if __name__ == "__main__":
 
     # Verificar e copiar arquivos
     verificar_e_copiar_arquivos(pasta1, pasta2)
-
-    print("")
-    print("")
-    print("")
-    print("")
-    print("")
-    print("")
-    print("")
-    print("")
-    print("")
-    print("")
